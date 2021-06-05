@@ -4,9 +4,7 @@ import csv
 import requests
 import datetime
 
-#url = 'http://api.exchangeratesapi.io/v1/latest?access_key=a30a9d42aef5f4bd4ebe4a98cb7e2a6a&symbols=USD,AUD,CAD,PLN'
-
-APIKEY='a30a9d42aef5f4bd4ebe4a98cb7e2a6a'
+APIKEY='YOUR API KEY'
 
 
 today = datetime.date.today() #getting the current date
